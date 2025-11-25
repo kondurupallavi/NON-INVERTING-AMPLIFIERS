@@ -51,5 +51,3 @@ Non-inverting amplifier:
 ## RESULT:
 <img width="1600" height="1075" alt="image" src="https://github.com/user-attachments/assets/9cb6cc60-077a-4356-a84f-6fcf72b75551" />
 
-
-## RESULT:
