@@ -49,5 +49,5 @@ Non-inverting amplifier:
 <img width="899" height="1280" alt="image" src="https://github.com/user-attachments/assets/9e6c2b92-c993-4d98-810f-4c3c796e67f9" />
 
 ## RESULT:
-<img width="1600" height="1075" alt="image" src="https://github.com/user-attachments/assets/9cb6cc60-077a-4356-a84f-6fcf72b75551" />
+<img width="1600" height="1075" alt="image" src="https://github.com/user-attachments/assets/9cb6cc60-077a-4356-a84f-6fcf72b75551" />.
 
